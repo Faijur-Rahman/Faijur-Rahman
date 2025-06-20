@@ -29,7 +29,7 @@
 
 - **MusicScraper**  
   A Python-based tool that scrapes websites to find and download songs automatically. This project strengthened my skills in Python, web scraping, and automation.  
-  [View Repo](https://github.com/Faijur-Rahman/MusicScraper)
+  [View Repo](https://github.com/Faijur-Rahman/MusicScraperCLI)
 
 - **E-Commerce Platform** _(Ongoing)_  
   Currently working on building a feature-rich e-commerce web application. This project is helping me deepen my knowledge of Java, Spring Boot, and full-stack development practices.
